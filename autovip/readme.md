@@ -1,9 +1,9 @@
 ## Automatyczne nadawanie VIPa
 
-####Opis:
+#### Opis:
 Nadawanie VIPa za dołączenie do Discorda. Użytkownik otrzymuje rolę VIP na Discodzie na okres x dni (np. 3 dni). Do bazy sklepu (sklepcs.pl) jest dodawane jego SteamID, data zakończenia, flaga oraz ID konta Discord.
 
-####Funkcje:
+#### Funkcje:
 * Nadanie tymczasowej roli na Discordzie
 * Wpis do bazy danych sklepcs.pl
 * Po pomyślnym nadaniu rangi użytkownik otrzymuje zakaz pisania na kanale aby uniknąć niepotrzebnego spamu
@@ -11,7 +11,3 @@ Nadawanie VIPa za dołączenie do Discorda. Użytkownik otrzymuje rolę VIP na D
 * Logi na kanale
 * Po wygaśnięciu rangi, BOT usuwa użytkownikowi rolę
 * **Odbiór rangi jest jednorazowy** - użytkownik nie może odebrać VIPa drugi raz
-
-![](https://raw.githubusercontent.com/xMin3S/projekty/main/autovip/odbieranie.png)
-![](https://raw.githubusercontent.com/xMin3S/projekty/main/autovip/tymczasowa_rola.png)
-![](https://raw.githubusercontent.com/xMin3S/projekty/main/autovip/log.png)
